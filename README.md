@@ -6,7 +6,7 @@ I'm a cybersecurity student with a fervent passion for exploring and contributin
 
 ## Skills
 - **Programming Languages**: Python, Bash,Powershell  💻
-- **Tools**: Wireshark, Metasploit, Nmap 🛠️
+- **Tools**: Wireshark, Metasploit, Nmap,YARA 🛠️
 - **Operating Systems**: Linux, Windows 🖥️
 
 ## Contact
