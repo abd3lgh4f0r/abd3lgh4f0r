@@ -12,8 +12,8 @@ I'm a cybersecurity student with a fervent passion for exploring and contributin
 ## Contact
 
 Feel free to reach out to me:
-Email: abouhdyd@gmail.com 📧
-LinkedIn: www.linkedin.com/in/abdelghafourbouhdyd 🔗
+ **Email**: abouhdyd@gmail.com 📧
+ **LinkedIn**: www.linkedin.com/in/abdelghafourbouhdyd 🔗
 
 Let's connect and collaborate on exciting cybersecurity projects! 🚀
  
