@@ -47,5 +47,11 @@ I'm a cybersecurity student with a fervent passion for exploring and contributin
 </div>
 
 
-Let's connect and collaborate on exciting cybersecurity projects! 🚀
+
+
+
+
+
+
+**Let's connect and collaborate on exciting cybersecurity projects!** 
  
