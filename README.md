@@ -13,6 +13,8 @@ I'm a cybersecurity student with a fervent passion for exploring and contributin
 - **Programming Languages**: Python, Bash,Powershell,HTML,CSS,JAVASCRIPT  💻
 - **Tools**: Wireshark, Metasploit, Nmap,YARA 🛠️
 - **Operating Systems**: Linux, Windows 🖥️
+    <img src="	https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" target="_blank" />
+  
 
 ## Contact
 <div align="center"> 
@@ -23,7 +25,7 @@ I'm a cybersecurity student with a fervent passion for exploring and contributin
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://abd3lgh4f0r.github.io/" target="_blank">
-     <img src="https://www.flaticon.com/free-icon/blog_3959542?term=blog&page=1&position=6&origin=tag&related_id=3959542" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://www.flaticon.com/free-icon/blog_3959542?term=blog&page=1&position=6&origin=tag&related_id=3959542"/> 
   </a>
 </div>
 
