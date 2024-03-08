@@ -9,14 +9,15 @@
 
 I'm a cybersecurity student with a fervent passion for exploring and contributing to the dynamic field of cybersecurity. Currently enrolled in the National Institute of Posts and Telecommunications in Rabat, Morocco 🌐, I am dedicated to advancing my knowledge and skills in the realm of cybersecurity 🔒.
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+<h2 align="center">SKILLS</h2>
  <br/>
 <div align="center">
-    <img src="	https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+ <br/>   
 </div>
 
-<br/>
+
 
 
 
@@ -33,12 +34,7 @@ I'm a cybersecurity student with a fervent passion for exploring and contributin
   </a>
 </div>
 
-<div align="center"> 
-<h2 align="center">Stats</h2>
-<br>
-<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd3lgh4f0r&theme=blue-green"/>
-<br>
-</div>
+
 
 
 Let's connect and collaborate on exciting cybersecurity projects! 🚀
