@@ -10,7 +10,7 @@
 I'm a cybersecurity student with a fervent passion for exploring and contributing to the dynamic field of cybersecurity. Currently enrolled in the National Institute of Posts and Telecommunications in Rabat, Morocco 🌐, I am dedicated to advancing my knowledge and skills in the realm of cybersecurity 🔒.
 
 <div align="center">
-<h2 align="center">SKILLS</h2>
+<h2 align="center">Languages-Frameworks-Tools</h2>
  <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -19,6 +19,8 @@ I'm a cybersecurity student with a fervent passion for exploring and contributin
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
  <br/>   
 </div>
 
@@ -28,7 +30,7 @@ I'm a cybersecurity student with a fervent passion for exploring and contributin
 
 ## Contact
 <div align="center"> 
-  <a href="mail:abouhdyd@gmail.com">
+  <a href="abouhdyd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/abdelghafourbouhdyd/" target="_blank">
