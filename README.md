@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a cybersecurity student with a fervent passion for exploring and contributing to the dynamic field of cybersecurity. Currently enrolled in the National Institute of Posts and Telecommunications in Rabat, Morocco 🌐, I am dedicated to advancing my knowledge and skills in the realm of cybersecurity 🔒.
+**I am a cybersecurity student with a fervent passion for exploring and contributing to the dynamic field of cybersecurity. Currently enrolled at the National Institute of Posts and Telecommunications in Rabat, Morocco, I love diving deep into Infosec topics and writing blogs about them. Moreover, I have a keen interest in task automation because I enjoy streamlining complex processes.**
 
 <div align="center">
 <h2 align="center">Languages-Frameworks-Tools</h2>
