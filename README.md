@@ -13,7 +13,11 @@ I'm a cybersecurity student with a fervent passion for exploring and contributin
 - **Programming Languages**: Python, Bash,Powershell,HTML,CSS,JAVASCRIPT  💻
 - **Tools**: Wireshark, Metasploit, Nmap,YARA 🛠️
 - **Operating Systems**: Linux, Windows 🖥️
-    <img src="	https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" target="_blank" />
+    <div align="center"> 
+        	https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white
+    <a href="" target="_blank">
+     <img src="	https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/> 
+  </a>
   
 
 ## Contact
