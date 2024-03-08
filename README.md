@@ -9,16 +9,16 @@
 
 I'm a cybersecurity student with a fervent passion for exploring and contributing to the dynamic field of cybersecurity. Currently enrolled in the National Institute of Posts and Telecommunications in Rabat, Morocco 🌐, I am dedicated to advancing my knowledge and skills in the realm of cybersecurity 🔒.
 
-## Skills
-- **Programming Languages**: Python, Bash,Powershell,HTML,CSS,JAVASCRIPT  💻
-- **Tools**: Wireshark, Metasploit, Nmap,YARA 🛠️
-- **Operating Systems**: Linux, Windows 🖥️
-    <div align="center"> 
-        	https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white
-    <a href="" target="_blank">
-     <img src="	https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/> 
-  </a>
-  
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+ <br/>
+<div align="center">
+    <img src="	https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" />
+    
+</div>
+
+<br/>
+
+
 
 ## Contact
 <div align="center"> 
