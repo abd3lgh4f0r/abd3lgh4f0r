@@ -41,7 +41,10 @@ I'm a cybersecurity student with a fervent passion for exploring and contributin
   </a>
 </div>
 
-
+## Stat
+<div align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=abd3lgh4f0r&theme=blue-green"/>
+</div>
 
 
 Let's connect and collaborate on exciting cybersecurity projects! 🚀
