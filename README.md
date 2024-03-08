@@ -36,7 +36,7 @@ I'm a cybersecurity student with a fervent passion for exploring and contributin
 <div>
 <h2 align="center">Stats</h2>
 <br>
-<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"/>
+<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username={abd3lgh4f0r}&theme=blue-green"/>
 <br>
 </div>
 
